@@ -29,6 +29,4 @@ Module V :-
 Strings, characters & Files
 Working with the String and StringBuilder class, Character class, Tokenizing strings, Regular
 Expressions, Files and Streams, Using NIO classes, Sequential file handling, Object serialization, 
-Page 50 of 405
 JFileChooser, Introduction to threading, Introduction to Generics and lambda expressions.
-(8L
