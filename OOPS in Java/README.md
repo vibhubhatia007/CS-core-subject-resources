@@ -24,7 +24,7 @@ When to use exception handling, Java exception hierarchy, finally block, Stack u
 Chained exceptions, Declaring new exception types, Assertions, try with resources. Simple I/O
 with GUI, Basic GUI Components, GUI Event handling, Adapter classes, Layout managers, Using
 panels.
-(8L)
+
 Module V :-
 Strings, characters & Files
 Working with the String and StringBuilder class, Character class, Tokenizing strings, Regular
